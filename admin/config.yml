@@ -28,7 +28,7 @@ collections:
     summary: "{{title}}  ({{year}}-{{month}}-{{day}})"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime", date_format: "MMM D, YYYY", time_format: false, picker_utc: true }
+      - { label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "MMM D, YYYY", time_format: false, picker_utc: true }
       - { label: "Short Summary (shows on the blog page and in Google)", name: "description", widget: "text" }
       - { label: "Cover Photo", name: "image", widget: "image", required: false }
       - { label: "Cover Photo Description (for Google and screen readers)", name: "imageAlt", widget: "string", required: false }
