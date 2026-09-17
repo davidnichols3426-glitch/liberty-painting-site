@@ -15,6 +15,14 @@ module.exports = function (eleventyConfig) {
       .sort((a, b) => a.date - b.date)
   );
 
+  // Portfolio projects, oldest first (the portfolio page reverses this)
+  eleventyConfig.addCollection("projects", (api) =>
+    api
+      .getFilteredByGlob("portfolio/projects/*.md")
+      .filter((p) => p.data.published !== false)
+      .sort((a, b) => a.date - b.date)
+  );
+
   const months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
   eleventyConfig.addFilter("shortDate", (d) => {
     const x = new Date(d);
