@@ -1,0 +1,43 @@
+# Liberty Painting — Netlify redirects (old Wix URLs -> new pages)
+# Format: from-path  to-path  status
+
+/residential-painting                 /residential-painting.html  301
+/commercial-painting                  /commercial-painting.html  301
+/copy-of-residential-painting         /cabinet-painting.html  301
+/free-color-consultation              /free-color-consultation.html  301
+/copy-of-free-color-consultation      /industrial-coatings.html  301
+/drywall-repair                       /drywall-repair.html  301
+/deck-fence-painting-staining         /deck-fence-painting-staining.html  301
+/expert-custom-finishes               /expert-custom-finishes.html  301
+/bentonville                          /bentonville.html  301
+/rogers                               /rogers.html  301
+/fayetteville                         /fayetteville.html  301
+/springdale                           /springdale.html  301
+/copy-of-siloam-springs               /bella-vista.html  301
+/copy-of-bentonville                  /centerton.html  301
+/copy-of-lowell                       /pea-ridge.html  301
+/copy-of-gravette                     /lowell.html  301
+/copy-of-bentonville-2                /prairie-grove.html  301
+/copy-of-berryville                   /farmington.html  301
+/copy-of-pea-ridge                    /siloam-springs.html  301
+/copy-of-gentry                       /gravette.html  301
+/copy-of-centerton                    /gentry.html  301
+/copy-of-prarie-grove                 /berryville.html  301
+/copy-of-bentonville-1                /eureka-springs.html  301
+/copy-of-eureka-springs               /fort-smith.html  301
+/areas-we-serve                       /areas.html  301
+/portfolio                            /portfolio.html  301
+/blog                                 /blog.html  301
+/contact-1                            /contact.html  301
+
+# Old Wix blog post URLs -> new blog index
+/post/virtual-tools-for-previewing-paint-colors-transform-your-home-with-confidence  /blog.html  301
+/post/summer-outdoor-painting-safety-essentials-protect-yourself-and-your-home-in-northwest-arkansas-hea  /blog.html  301
+/post/high-traffic-area-paint-selections-choosing-durable-paint-for-hallways-doors-and-entryways-in-ben  /blog.html  301
+/post/eco-paints-vs-traditional-a-comparison-for-northwest-arkansas-homeowners  /blog.html  301
+
+# NOTE: once an old article above is published in the editor, change its
+# target to its new page, for example:  /blog/virtual-paint-color-preview-tools/
+# New slugs: virtual-paint-color-preview-tools, summer-outdoor-painting-safety-nwa, high-traffic-area-paint-bentonville, eco-paints-vs-traditional-nwa
+
+# Clean URLs (/rogers serves rogers.html) are handled automatically by Netlify.

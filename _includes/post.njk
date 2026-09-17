@@ -1,0 +1,12 @@
+---
+layout: base.njk
+ogType: article
+---
+<section class="hero grad"><div class="wrap"><div class="crumb"><a href="/index.html">Home</a> › <a href="/blog.html">Blog</a></div><div class="post-meta">Liberty Painting · {{ page.date | shortDate }}{% if readTime %} · {{ readTime }} min read{% endif %}</div><h1 style="margin-top:12px">{{ title }}</h1>{% if description %}<p>{{ description }}</p>{% endif %}</div></section>
+<section><div class="wrap">
+{% if image %}<div class="post-cover" style="max-width:960px;margin-left:auto;margin-right:auto"><img src="{{ image }}" alt="{{ imageAlt or title }}"></div>{% endif %}
+<article class="prose">
+{{ content | safe }}
+<a class="post-back" href="/blog.html">← Back to all articles</a>
+</article>
+</div></section>
