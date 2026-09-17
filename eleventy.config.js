@@ -1,4 +1,4 @@
-// Eleventy builds the blog. Every other page is plain HTML copied as-is.
+// Eleventy builds the blog and portfolio. Every other page is plain HTML copied as-is.
 module.exports = function (eleventyConfig) {
   // Existing hand-built pages and files, copied untouched
   eleventyConfig.addPassthroughCopy("*.html");
