@@ -52,4 +52,13 @@ collections:
       - { label: "Before Photo (adds a before/after slider)", name: "beforePhoto", widget: "image", required: false }
       - { label: "Photo Description (for Google and screen readers)", name: "imageAlt", widget: "string", required: false }
       - { label: "Short Details (1 or 2 sentences)", name: "details", widget: "text", required: false }
+      - label: "More Photos (shown when someone opens this project)"
+        name: "gallery"
+        widget: "list"
+        required: false
+        collapsed: false
+        summary: "{{fields.caption}}"
+        fields:
+          - { label: "Photo", name: "image", widget: "image" }
+          - { label: "Caption (optional)", name: "caption", widget: "string", required: false }
       - { label: "Published (turn off to hide this project)", name: "published", widget: "boolean", default: true }
