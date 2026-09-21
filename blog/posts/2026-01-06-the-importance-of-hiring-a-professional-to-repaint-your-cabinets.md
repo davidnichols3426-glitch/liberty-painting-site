@@ -9,7 +9,9 @@ description: In today's fast-paced home improvement landscape, repainting
   DIY approach? This guide explores the key benefits, helping homeowners
   understand why hiring experts for kitchen cabinet painting or cabinet
   refinishing is essential for long-lasting results.
-readTime: ""
+image: /assets/uploads/cabinets-1.jpg
+imageAlt: Liberty Painting crews repaint a set of cabinets in Bentonville AR
+readTime: 3
 published: true
 ---
 **Expertise and Precision in Cabinet Preparation**
