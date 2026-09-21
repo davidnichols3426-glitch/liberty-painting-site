@@ -2,7 +2,7 @@
 title: "8th Street Market: Interior Repaint"
 location: 8th Street Market in Bentonville, AR
 date: 2026-06-19
-photo: /assets/img14.jpg
+photo: assets/uploads/img_2673.jpg
 beforePhoto: assets/uploads/img_2600.jpg
 imageAlt: 8th Street Market, Liberty Painting LLC Owner Nick Nichols on-site
 details: Repaint of the interior access way of the 8th Street Marketing
@@ -10,8 +10,10 @@ details: Repaint of the interior access way of the 8th Street Marketing
   hall.
 gallery:
   - image: assets/uploads/img_2669.jpg
-  - image: assets/uploads/img_2673.jpg
+    caption: Liberty Painting Repaint of 8th St Market in Bentonville AR
   - image: assets/uploads/img_2680.jpg
+    caption: Liberty Painting Repaint of 8th St Market in Bentonville AR
   - image: assets/uploads/img_2685.jpg
+    caption: Liberty Painting Repaint of 8th St Market in Bentonville AR
 published: true
 ---
