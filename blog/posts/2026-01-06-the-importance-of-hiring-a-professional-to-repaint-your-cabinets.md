@@ -9,7 +9,7 @@ description: In today's fast-paced home improvement landscape, repainting
   DIY approach? This guide explores the key benefits, helping homeowners
   understand why hiring experts for kitchen cabinet painting or cabinet
   refinishing is essential for long-lasting results.
-image: /assets/uploads/cabinets-1.jpg
+image: assets/uploads/cabinets-1.jpg
 imageAlt: Liberty Painting crews repaint a set of cabinets in Bentonville AR
 readTime: 3
 published: true
@@ -40,7 +40,7 @@ This longevity translates to fewer touch-ups and repairs, safeguarding your inve
 
 **Cost-Effectiveness and Value Addition**
 
-While the initial cost of hiring professionals—typically $2,000-$6,000 for kitchen cabinet painting—might seem steep, it's often more economical than DIY mishaps. Amateurs risk wasting money on wrong paints, damaged floors from spills, or even full replacements if the job goes awry. Pros access wholesale materials, minimize waste, and offer warranties covering defects for 1-2 years.
+While the initial cost of hiring professionals, typically $2,000-$6,000 for kitchen cabinet painting, might seem steep, it's often more economical than DIY mishaps. Amateurs risk wasting money on wrong paints, damaged floors from spills, or even full replacements if the job goes awry. Pros access wholesale materials, minimize waste, and offer warranties covering defects for 1-2 years.
 
 Beyond savings, a professional repaint enhances curb appeal, making your home more marketable. Real estate experts note that updated cabinets can yield a high ROI, especially in competitive markets. For those querying "cost of professional cabinet refinishing," factoring in time saved and quality gained makes it a no-brainer.
 
