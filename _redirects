@@ -41,3 +41,8 @@
 # New slugs: virtual-paint-color-preview-tools, summer-outdoor-painting-safety-nwa, high-traffic-area-paint-bentonville, eco-paints-vs-traditional-nwa
 
 # Clean URLs (/rogers serves rogers.html) are handled automatically by Netlify.
+
+# Fix editor photo paths that are missing a leading slash
+/portfolio/:slug/assets/uploads/:file  /assets/uploads/:file  200
+/blog/:slug/assets/uploads/:file  /assets/uploads/:file  200
+/assets/uploads/:file  /assets/uploads/:file  200
