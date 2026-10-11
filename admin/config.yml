@@ -15,7 +15,7 @@ logo_url: https://www.libertypaintingnwa.net/assets/img0.png
 
 # Where uploaded photos are saved and how pages link to them
 media_folder: "assets/uploads"
-public_folder: "/assets/uploads"
+public_folder: "https://www.libertypaintingnwa.net/assets/uploads"
 
 collections:
   - name: "blog"
