@@ -1,6 +1,6 @@
 ---
 title: Commercial Repaint - Massive Mural
-location: Sam's Club, Bentonville
+location: Wal Mart Campus, Bentonville AR
 date: 2026-06-27
 photo: https://www.libertypaintingnwa.net/assets/uploads/img_4719.jpeg
 imageAlt: Commercial Repaint, Sam's Club, Bentonville
