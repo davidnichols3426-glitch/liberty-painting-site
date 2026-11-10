@@ -3,6 +3,7 @@ title: Commercial Repaint - Tiger Stadium
 location: Bentonville, AR
 date: 2026-06-25
 photo: https://www.libertypaintingnwa.net/assets/uploads/img_0155.jpg
+beforePhoto: https://www.libertypaintingnwa.net/assets/uploads/img_0002.jpeg
 imageAlt: Two-Story Deck Stain, Lost Bridge area
 details: Liberty Painting van in front of the newly repainted 4 story Tiger
   Stadium home bleachers.
